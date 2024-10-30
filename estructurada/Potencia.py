@@ -5,4 +5,4 @@ if __name__ == '__main__':
     while i > poten:
         num = num * num
         i = i + 1
-        print(f"La potencia es: "{num})
+        print(f"la potencia es: {num}")
